@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Duc N. M. Hoang ("Hoàng Nguyễn Minh Đức" in Vietnamese) is a Master's student at the Department of Electronics Engineering, Myongji University.
+Duc N. M. Hoang ("Hoàng Nguyễn Minh Đức" in Vietnamese) is a Master's student at the Department of Electronic Engineering, Myongji University, South Korea.
 
-I received the BEng degree in Computer Engineering in 2020 from the Faculty of Computer Science and Engineering, Ho Chi Minh City University of Technology (HCMUT). During my undergraduate study, I also had a chance to become a research intern at National University of Singapore (NUS).
+I received the BEng degree in Computer Engineering in 2020 from the Faculty of Computer Science and Engineering, Ho Chi Minh City University of Technology (HCMUT), Vietnam. During my undergraduate study, I also had a chance to become a research intern at National University of Singapore (NUS), Singapore.
 
 My research interests include network systems, information and communication engineering, and container networking. I am a student member of IEEE.
 
